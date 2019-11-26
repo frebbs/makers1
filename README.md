@@ -12,7 +12,6 @@ const sayHello = (name, city) => {
 
 ```
 
-
 1. Download
 1. Enjoy
-    1. Yes
+    2. Yes
